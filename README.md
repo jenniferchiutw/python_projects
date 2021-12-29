@@ -6,6 +6,3 @@ This repository holds my programming projects using Python.
 * [Breakout Games](https://github.com/jenniferchiutw/sc-projects/tree/main/breakout%20games)
   * Animation & Game Designing 
   * [Demo Video](https://drive.google.com/file/d/1_fVvsKOvr4g5B26ml7op6q3qccLMAWEm/view?usp=sharing)
-
-* [News Vendor Model](https://github.com/jenniferchiutw/python_projects/tree/main/news%20vendor%20model)
-  * Optimizing & Modeling  
