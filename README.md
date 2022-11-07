@@ -7,6 +7,6 @@ This repository holds my programming projects using Python.
   * Animation & Game Designing 
   * [Demo Video](https://drive.google.com/file/d/1_fVvsKOvr4g5B26ml7op6q3qccLMAWEm/view?usp=sharing)
 
-* [Tic Tac Toe Game](https://github.com/jenniferchiutw/python_projects/tree/main/tic%20tac%20toe%20games)
+* [Tic Tac Toe Game](https://github.com/jenniferchiutw/python_projects/tree/main/tic_tac_toe)
   * Game Designing 
   * [Demo Video](https://drive.google.com/file/d/1nuPeZdHoxwLOtG01P7QmeC1GUiZMPtqc/view?usp=sharing)
